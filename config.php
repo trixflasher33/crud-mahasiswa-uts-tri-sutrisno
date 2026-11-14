@@ -2,7 +2,7 @@
 // File: shop_config.php
 
 /* =========================================================================
-- 1. KONFIGURASI DATABASE TOKO ONLINE
+- 1. KONFIGURASI DATABASE MAHASISWA
 - ========================================================================= */
 define('DB_HOST', 'localhost');
 define('DB_NAME', '254242002'); // Sesuai database NPM mahasiswa
