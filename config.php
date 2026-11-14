@@ -5,7 +5,7 @@
 - 1. KONFIGURASI DATABASE TOKO ONLINE
 - ========================================================================= */
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'online_store_db'); // Sesuai database toko online Bab 2
+define('DB_NAME', '254242002'); // Sesuai database NPM mahasiswa
 define('DB_USER', 'root');       // Default XAMPP
 define('DB_PASS', '');           // Default XAMPP (kosong)
 define('DB_DRIVER', 'mysql');
